@@ -4,7 +4,7 @@
 ### Contatos e Redes sociais:
 [![Portifolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http:www.linkedin.com/in/pietro-scatine)
 
-[![Portifolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:email.pietro.s.thor@gmail.com/)
+[![Portifolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pietro.s.thor@gmail.com)
 
 ![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietro078&show_icons=true&theme=dark)
 
